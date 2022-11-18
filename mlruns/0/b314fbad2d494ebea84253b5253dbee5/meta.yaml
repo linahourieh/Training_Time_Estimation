@@ -1,0 +1,16 @@
+artifact_uri: file:///home/lina/PycharmProjects/Project1/mlruns/0/b314fbad2d494ebea84253b5253dbee5/artifacts
+deleted_time: 1668625548139
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: b314fbad2d494ebea84253b5253dbee5
+run_name: flawless-shad-811
+run_uuid: b314fbad2d494ebea84253b5253dbee5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1668625155732
+status: 1
+tags: []
+user_id: lina

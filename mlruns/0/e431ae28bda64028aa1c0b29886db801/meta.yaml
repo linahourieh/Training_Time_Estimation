@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lina/PycharmProjects/Project1/mlruns/0/e431ae28bda64028aa1c0b29886db801/artifacts
+end_time: 1668625007102
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e431ae28bda64028aa1c0b29886db801
+run_name: sneaky-bug-793
+run_uuid: e431ae28bda64028aa1c0b29886db801
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1668625004981
+status: 3
+tags: []
+user_id: lina

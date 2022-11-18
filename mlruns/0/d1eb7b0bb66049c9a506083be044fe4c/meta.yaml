@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lina/PycharmProjects/Project1/mlruns/0/d1eb7b0bb66049c9a506083be044fe4c/artifacts
+end_time: 1668625050423
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d1eb7b0bb66049c9a506083be044fe4c
+run_name: treasured-squid-937
+run_uuid: d1eb7b0bb66049c9a506083be044fe4c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1668625048144
+status: 3
+tags: []
+user_id: lina

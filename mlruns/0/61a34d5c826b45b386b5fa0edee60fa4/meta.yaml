@@ -1,0 +1,16 @@
+artifact_uri: file:///home/lina/PycharmProjects/Project1/mlruns/0/61a34d5c826b45b386b5fa0edee60fa4/artifacts
+deleted_time: 1668625073077
+end_time: 1668624514175
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 61a34d5c826b45b386b5fa0edee60fa4
+run_name: gregarious-squid-238
+run_uuid: 61a34d5c826b45b386b5fa0edee60fa4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1668624512183
+status: 3
+tags: []
+user_id: lina

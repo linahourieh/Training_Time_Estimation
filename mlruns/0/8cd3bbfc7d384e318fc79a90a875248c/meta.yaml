@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lina/PycharmProjects/Project1/mlruns/0/8cd3bbfc7d384e318fc79a90a875248c/artifacts
+end_time: 1668625134166
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8cd3bbfc7d384e318fc79a90a875248c
+run_name: delicate-moose-852
+run_uuid: 8cd3bbfc7d384e318fc79a90a875248c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1668625130491
+status: 3
+tags: []
+user_id: lina
